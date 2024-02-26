@@ -23,7 +23,7 @@ Initially, managing dependencies in Java proved to be a challenge. I relied on m
 Working with APIs presented its own set of challenges, particularly in data retrieval and manipulation. Mastering the Unirest library for making HTTP requests and processing JSON data proved to be difficult in a language like Java. Through thorough documentation review and hands-on practice, I gained proficiency in leveraging APIs to enhance data handling capabilities. Additionally, familiarity with the JSON library facilitated seamless parsing of JSON responses, enabling efficient extraction of relevant data.
 
 ## Overall Impact And Significance
-This project created thousands of leads for Transportation Compliance service and let to over **$40,000** in sales revenue.
+This project has generated thousands of leads for Transportation Compliance Service, resulting in over $40,000 in sales revenue. Its strategic implementation has played a pivotal role in driving business growth and achieving significant outcomes for the organization.
 
 ## Installation and Usage
 Due to the proprietary nature of this project and its specific application within Transportation Compliance Service, detailed setup and usage instructions are not publicly available. This project is designed to operate within a specific infrastructure and requires appropriate access and permissions.
