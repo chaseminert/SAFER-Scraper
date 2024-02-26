@@ -15,11 +15,12 @@ The FMCSA SAFER Scraper is a Java application designed to automate the retrieval
 - **Maven**: Facilitates dependency management through the `pom.xml` file.
 
 ## Challenges Overcome
-1. **Dependency Management**: Transition from manual jar management to Maven for efficient dependency handling.
-2. **API Usage**: Mastered the use of Unirest for API communication and the JSON library for parsing, enhancing data handling capabilities.
 
-## Screenshots/Demo
-TBD - Demonstrations of the scraper in action will be provided.
+### Dependency Management
+Initially, managing dependencies in Java proved to be a challenge. I relied on manual jar management, which became cumbersome as the project grew. Learning how to use Maven improved efficiency and reliability in handling dependencies. By adopting Maven and creating a `pom.xml` file, I streamlined dependency management, ensuring consistent builds and simplified project maintenance.
+
+### API Usage
+Working with APIs presented its own set of challenges, particularly in data retrieval and manipulation. Mastering the Unirest library for making HTTP requests and processing JSON data proved to be difficult in a language like Java. Through thorough documentation review and hands-on practice, I gained proficiency in leveraging APIs to enhance data handling capabilities. Additionally, familiarity with the JSON library facilitated seamless parsing of JSON responses, enabling efficient extraction of relevant data.
 
 ## Installation and Usage
 Due to the proprietary nature of this project and its specific application within Transportation Compliance Service, detailed setup and usage instructions are not publicly available. This project is designed to operate within a specific infrastructure and requires appropriate access and permissions.
